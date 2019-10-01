@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12209" started-at="2019-10-01T14:32:36 IST" finished-at="2019-10-01T14:32:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12209" started-at="2019-10-01T14:32:36 IST" finished-at="2019-10-01T14:32:48 IST">
+      <class name="SeleniumFirst.Selenium19.Sep20sec">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:SeleniumFirst.Selenium19.Sep20sec@3dd4520b]" name="beforeTest" is-config="true" duration-ms="11877" started-at="2019-10-01T14:32:36 IST" finished-at="2019-10-01T14:32:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="frames()[pri:0, instance:SeleniumFirst.Selenium19.Sep20sec@3dd4520b]" name="frames" duration-ms="263" started-at="2019-10-01T14:32:48 IST" finished-at="2019-10-01T14:32:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frames -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:SeleniumFirst.Selenium19.Sep20sec@3dd4520b]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-10-01T14:32:48 IST" finished-at="2019-10-01T14:32:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- SeleniumFirst.Selenium19.Sep20sec -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
